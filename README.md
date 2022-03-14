@@ -16,4 +16,4 @@ Credits:
 
 Screenshots:
 
-<img src="https://raw.githubusercontent.com/nkeetels/Brad/main/Screenshots/20070401_Brad-7.png"></img><img src="https://raw.githubusercontent.com/nkeetels/Brad/main/Screenshots/20070401_Brad-3.png"></img><img src="https://raw.githubusercontent.com/nkeetels/Brad/main/Screenshots/20070401_Brad-4.png"></img><img src="https://raw.githubusercontent.com/nkeetels/Brad/main/Screenshots/20070401_Brad-6.png"></img>
+<img src="https://raw.githubusercontent.com/nkeetels/Brad/main/Screenshots/20070401_Brad-3.png"></img><img src="https://raw.githubusercontent.com/nkeetels/Brad/main/Screenshots/20070401_Brad-7.png"></img><img src="https://raw.githubusercontent.com/nkeetels/Brad/main/Screenshots/20070401_Brad-4.png"></img><img src="https://raw.githubusercontent.com/nkeetels/Brad/main/Screenshots/20070401_Brad-6.png"></img>
