@@ -4,8 +4,10 @@ Brad the Brat was created in 2006 as an experimental management game for Nintend
 
 
 
+
 Credits:
-- Niels Keetels (programming)
-- Peter Nauta (design)
-- Bruno Jordaan (design)
-- Joeri Lefevre (art)
+- Peter Nauta
+- Bruno Jordaan 
+- Joeri Lefevre
+- Phan vo Bang
+- Niels Keetels
